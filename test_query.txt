@@ -1,0 +1,4 @@
+"select *
+from \"###REPLACE_ME###\"
+limit 10
+"
